@@ -59,4 +59,8 @@ Then you can manually accept all the packages to install. You can also accept al
 choco install packages.config -y
 ```
 
+## Finished:
+
+You are done installing winboet packages
+
 
