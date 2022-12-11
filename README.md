@@ -19,13 +19,11 @@ Open PowerShell as Adminstrator.
 
 Run the following commands
 
-
+```
 Get-ExecutionPolicy
 ```
 If it returns "Restricted"
-```
 Then run
-
 ```
 Set-ExecutionPolicy AllSigned
 ```
