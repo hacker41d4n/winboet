@@ -39,7 +39,7 @@ Open PowerShell as Administrator
 
 ### Cloning winboet repo:
 
-You can manually download the repo and extract the folder.
+You can manually download the repo and extract the folder
 or run the following command
 ```
 Invoke-WebRequest https://github.com/hacker41d4n/winboet/ -OutFile ./packages.config
