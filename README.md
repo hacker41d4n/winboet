@@ -33,3 +33,15 @@ In a admin Powershell run
 Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
 ```
 Chocolaty is now installed.
+
+## Installing winboet:
+Open PowerShell as Administrator
+
+### Cloning winboet repo:
+
+You can manually download the repo and extract the folder.
+or run the following command
+```
+Invoke-WebRequest https://github.com/hacker41d4n/winboet/ -OutFile ./packages.config
+```
+### Installing the packages:
