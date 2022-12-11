@@ -45,3 +45,18 @@ or run the following command
 Invoke-WebRequest https://github.com/hacker41d4n/winboet/ -OutFile ./packages.config
 ```
 ### Installing the packages:
+change the username to your current username on your computer
+```
+cd Users/username/Downloads
+```
+```
+choco install packages.config
+```
+
+Then you accept all the packages to install. You can also accept all the packages with this command.
+
+```
+choco install packages.config -y
+```
+
+
