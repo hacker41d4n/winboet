@@ -8,8 +8,9 @@ Winboet is made to for simplicity and easy to install.
 
 ## Prerequisite
 
-* Windows 10 or 11
-* Administrator Rights
-* Internet Access
+- Windows 10 or 11
+- Administrator Rights
+- Internet Access
+
 
 ## Getting Started
