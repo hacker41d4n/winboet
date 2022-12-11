@@ -53,7 +53,7 @@ cd Users/username/Downloads
 choco install packages.config
 ```
 
-Then you accept all the packages to install. You can also accept all the packages with this command.
+Then you can manually accept all the packages to install. You can also accept all the packages with this command.
 
 ```
 choco install packages.config -y
